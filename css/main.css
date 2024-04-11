@@ -74,5 +74,5 @@ font-style: italic;
     color:rgb(17, 18, 107); 
 }
 .year {
-    font-size: 100px;
+    max-width: 100%;
 }
