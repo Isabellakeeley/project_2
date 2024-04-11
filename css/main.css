@@ -79,6 +79,7 @@ font-style: italic;
     display: flex;
     justify-content: flex-end;
     margin-top: 0;
+    margin-bottom: 0;
 }
 .headline{
     color:rgb(17, 18, 107); 
