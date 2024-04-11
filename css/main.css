@@ -65,7 +65,6 @@ font-style: italic;
 .year {
     font-size: xx-large;
 }
-// Should work on making this fully responsive, but this was mainly an experiment with skew features and multiple box-shadows to get this effect.
 
 :root {
   --size: 3;
