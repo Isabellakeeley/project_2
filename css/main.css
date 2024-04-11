@@ -3,10 +3,25 @@ body {
     font-weight: 700;
     font-style: normal;
 }
-.Thin{
+.thin{
     font-family: "kulturista-web", serif;
     font-weight: 100;
     font-style: normal;
+}
+.thinitalic{
+    font-family: "kulturista-web", serif;
+    font-weight: 100;
+    font-style: italic;
+}
+.light{
+    font-family: "kulturista-web", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.lightitalic{
+    font-family: "kulturista-web", serif;
+    font-weight: 300;
+    font-style: italic;
 }
 .infotext{
     max-width: 20% ;
