@@ -78,4 +78,5 @@ font-style: italic;
     color:rgb(17, 18, 107); 
     display: flex;
     justify-content: flex-end;
+    margin-top: 0;
 }
