@@ -1,5 +1,7 @@
 body {
-    font-family: "Roboto Slab", serif;
+    font-family: "kulturista-web", serif;
+    font-weight: 700;
+    font-style: normal;
 }
 .infotext{
     max-width: 20% ;
