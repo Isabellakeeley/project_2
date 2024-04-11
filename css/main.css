@@ -6,3 +6,6 @@ body {
     display: flex;
     align-self: end;
 }
+.year {
+    font-size: xx-large;
+}
