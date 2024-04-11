@@ -9,7 +9,7 @@ h1{
     color:rgb(17, 18, 107); 
     padding-left: 40px;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 .fontfam{
     font-size: 50px;
