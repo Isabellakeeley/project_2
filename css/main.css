@@ -4,6 +4,10 @@ body {
     font-style: normal;
     background-color: rgb(170, 188, 236);
 }
+h1{
+    font-size: 80px;
+    color:rgb(17, 18, 107); ;
+}
 .fontfam{
     font-size: 30px;
     color: rgb(17, 18, 107);
