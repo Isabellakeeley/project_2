@@ -65,9 +65,11 @@ font-style: italic;
     font-style: italic;
 }
 .infotext{
-    display: flex;
-    justify-content: flex-end;
+    font-family: "kulturista-web", serif;
+    font-weight: 600;
+    font-style: normal;
     padding-left: 50% ;
+    color:rgb(17, 18, 107); 
 }
 .year {
     font-size: 100px;
