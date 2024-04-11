@@ -3,6 +3,10 @@ body {
     font-weight: 700;
     font-style: normal;
 }
+.fontfam{
+    font-size: 50%;
+    color: blueviolet;
+}
 .medium{
     font-family: "kulturista-web", serif;
     font-weight: 400;
