@@ -10,6 +10,7 @@ h1{
     padding-left: 40px;
     display: flex;
     justify-content: center;
+    background-color: aliceblue;
 }
 .fontfam{
     font-size: 50px;
