@@ -7,12 +7,12 @@ body {
 h1{
     font-size: 80px;
     color:rgb(17, 18, 107); 
-    padding-left: 20px;
+    padding-left: 40px;
 }
 .fontfam{
     font-size: 30px;
     color: rgb(17, 18, 107);
-    padding-left: 20px;
+    padding-left: 40px;
 }
 .medium{
     font-family: "kulturista-web", serif;
