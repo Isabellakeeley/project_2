@@ -80,3 +80,8 @@ font-style: italic;
     justify-content: flex-end;
     margin-top: 0;
 }
+.headline{
+    color:rgb(17, 18, 107); 
+    margin-top: 0;
+    font-size: 40px;
+}
