@@ -4,5 +4,5 @@ body {
 .infotext{
     max-width: 20% ;
     display: flex;
-    justify-content: end;
+    align-self: end;
 }
