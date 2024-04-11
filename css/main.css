@@ -2,10 +2,11 @@ body {
     font-family: "kulturista-web", serif;
     font-weight: 700;
     font-style: normal;
+    background-color: rgb(170, 188, 236);
 }
 .fontfam{
     font-size: 30px;
-    color: blueviolet;
+    color: rgb(17, 18, 107);
 }
 .medium{
     font-family: "kulturista-web", serif;
