@@ -80,7 +80,7 @@ font-style: italic;
     font-size: 400px;
     color:rgb(17, 18, 107); 
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     margin-top: 0;
     margin-bottom: 0;
     padding-right: 50px ;
