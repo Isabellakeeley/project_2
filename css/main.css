@@ -3,6 +3,11 @@ body {
     font-weight: 700;
     font-style: normal;
 }
+.medium{
+    font-family: "kulturista-web", serif;
+    font-weight: 400;
+    font-style: normal;
+}
 .thin{
     font-family: "kulturista-web", serif;
     font-weight: 100;
@@ -21,6 +26,31 @@ body {
 .lightitalic{
     font-family: "kulturista-web", serif;
     font-weight: 300;
+    font-style: italic;
+}
+.meditalic{
+    font-family: "kulturista-web", serif;
+font-weight: 400;
+font-style: italic;
+}
+.semibold{
+    font-family: "kulturista-web", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.semibolditalic{
+    font-family: "kulturista-web", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.bold{
+    font-family: "kulturista-web", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.bolditalic{
+    font-family: "kulturista-web", serif;
+    font-weight: 700;
     font-style: italic;
 }
 .infotext{
