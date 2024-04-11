@@ -67,6 +67,7 @@ font-style: italic;
 .infotext{
     display: flex;
     justify-content: flex-end;
+    padding left : 50% ;
 }
 .year {
     font-size: 100px;
