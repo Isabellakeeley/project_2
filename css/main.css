@@ -10,7 +10,7 @@ h1{
     padding-left: 40px;
 }
 .fontfam{
-    font-size: 30px;
+    font-size: 20px;
     color: rgb(17, 18, 107);
     padding-left: 40px;
 }
@@ -68,6 +68,7 @@ font-style: italic;
     font-family: "kulturista-web", serif;
     font-weight: 600;
     font-style: normal;
+    font-size: 30 px;
     padding-left: 50% ;
     padding-right: 40px ;
     color:rgb(17, 18, 107); 
